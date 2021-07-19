@@ -1,1 +1,1 @@
-git clone https://github.com/DowzG/DowzG.git;cd DowzG;chmod +x DowzG.sh;./ReLaX.sh install
+git clone https://github.com/DowzG/DowzG.git;cd DowzG;chmod +x DowzG.sh;./DowzGiraq.sh install
