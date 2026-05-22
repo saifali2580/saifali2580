@@ -27,6 +27,6 @@
 ---
 
 ### 📱 تواصل معي (Connect With Me)
-🌐 يمكنك متابعة تحديثات مشاريعي وقنواتي عبر الروابط التالية:
+🌐 يمكنك التواصل معي مباشرة عبر الروابط التالية:
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dowzp)
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DowzC)
